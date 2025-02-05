@@ -1,0 +1,6 @@
+D:/labs cLion/lab7/lab7/cmake-build-debug/CMakeFiles/lab7.dir
+D:/labs cLion/lab7/lab7/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/labs cLion/lab7/lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/labs cLion/lab7/lab7/cmake-build-debug/Persons/CMakeFiles/Persons.dir
+D:/labs cLion/lab7/lab7/cmake-build-debug/Persons/CMakeFiles/edit_cache.dir
+D:/labs cLion/lab7/lab7/cmake-build-debug/Persons/CMakeFiles/rebuild_cache.dir

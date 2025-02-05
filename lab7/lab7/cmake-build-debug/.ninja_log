@@ -1,0 +1,25 @@
+# ninja log v5
+9	314	7385030536827106	Documents/CMakeFiles/Documents.dir/wayBill.cpp.obj	5ab228fb573d59d9
+4	260	7385043038609039	CMakeFiles/lab7.dir/main.cpp.obj	215ecc76438739bc
+2	270	7385043038719464	CMakeFiles/lab7.dir/Persons/Person.cpp.obj	6825fc9c0b78c327
+3	328	7385030536927166	Documents/CMakeFiles/Documents.dir/receipt.cpp.obj	aca00d6c74438cef
+11	328	7385030536927166	Documents/CMakeFiles/Documents.dir/payCheck.cpp.obj	8b1969e74ea95137
+1	104	7385043495882539	build.ninja	5ad36feaf943a173
+6	329	7385030536947103	Documents/CMakeFiles/Documents.dir/document.cpp.obj	8094316bf9a8d856
+329	441	7385030538113195	Documents/libDocuments.a	af15baa7d3f102fb
+442	500	7385030538671325	lab7.exe	78ef1fae14d32d95
+6	270	7385043038709565	CMakeFiles/lab7.dir/Persons/payCheck.cpp.obj	988ecb63259bf0e8
+2	263	7385043509673693	Persons/CMakeFiles/Persons.dir/payCheck.cpp.obj	1f70419efe3bd1f6
+11	266	7385043509703883	Persons/CMakeFiles/Persons.dir/wayBill.cpp.obj	d5d21db7e746c44c
+8	276	7385043509813634	Persons/CMakeFiles/Persons.dir/Person.cpp.obj	6714ed6d34167203
+6	281	7385043509853386	Persons/CMakeFiles/Persons.dir/receipt.cpp.obj	45478c19465dc6cf
+281	326	7385043510304351	Persons/libPersons.a	4f7e6b660bee345
+326	378	7385043510813683	lab7.exe	cba4907c6cdce993
+1	236	7385043994363251	CMakeFiles/lab7.dir/main.cpp.obj	215ecc76438739bc
+236	293	7385043994911728	lab7.exe	cba4907c6cdce993
+1	239	7385044091109152	CMakeFiles/lab7.dir/main.cpp.obj	215ecc76438739bc
+239	298	7385044091677332	lab7.exe	cba4907c6cdce993
+1	244	7385044193097574	CMakeFiles/lab7.dir/Persons/Person.cpp.obj	6825fc9c0b78c327
+4	246	7385044193117507	Persons/CMakeFiles/Persons.dir/Person.cpp.obj	6714ed6d34167203
+246	283	7385044193486354	Persons/libPersons.a	4f7e6b660bee345
+283	339	7385044194035184	lab7.exe	cba4907c6cdce993

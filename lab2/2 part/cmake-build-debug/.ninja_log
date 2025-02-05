@@ -1,0 +1,5 @@
+# ninja log v5
+4	256	7337512788653750	build.ninja	cae3c06ebd827f6c
+4	742	7336697487411305	CMakeFiles/2_part.dir/apartments/library.cpp.obj	ce6d768d719b8b0f
+4	626	7336697909372663	CMakeFiles/2_part.dir/main.cpp.obj	ef7a2fb3191dc88b
+626	756	7336697910629276	2_part.exe	410cf2dadaaabbea

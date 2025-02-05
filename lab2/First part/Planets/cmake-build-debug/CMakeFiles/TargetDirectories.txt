@@ -1,0 +1,3 @@
+D:/labs cLion/Planets/cmake-build-debug/CMakeFiles/Planets.dir
+D:/labs cLion/Planets/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/labs cLion/Planets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

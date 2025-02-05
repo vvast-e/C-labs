@@ -1,0 +1,3 @@
+D:/labs cLion/lab2/2 part/apartments/cmake-build-debug/CMakeFiles/apartments.dir
+D:/labs cLion/lab2/2 part/apartments/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/labs cLion/lab2/2 part/apartments/cmake-build-debug/CMakeFiles/rebuild_cache.dir

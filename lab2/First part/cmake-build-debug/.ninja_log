@@ -1,0 +1,17 @@
+# ninja log v5
+7	955	7324690030865358	CMakeFiles/labs_cLion.dir/main.cpp.obj	f0ead6ab102b85e4
+778	916	7324695778527150	labs_cLion.exe	f5f97f1362b80771
+1	307	7342755942901685	build.ninja	478338655cff6e6d
+4	695	7324695776356741	Planets/CMakeFiles/Planets.dir/library.cpp.obj	47f37aacd29cdf1e
+695	778	7324695777188260	Planets/libPlanets.a	4984721ab5cab3db
+4	3742	7342755942901685	build.ninja	5f92c788d90964bc
+8	1533	7342755963417963	CMakeFiles/labs_cLion.dir/main.cpp.obj	f0ead6ab102b85e4
+3	1607	7342755963837957	Planets/CMakeFiles/Planets.dir/library.cpp.obj	47f37aacd29cdf1e
+1607	2636	7342755974436202	Planets/libPlanets.a	77962ac665f8b757
+2637	3133	7342755979416197	labs_cLion.exe	f5f97f1362b80771
+5	1357	7348755736563439	CMakeFiles/labs_cLion.dir/main.cpp.obj	f0ead6ab102b85e4
+1359	1873	7348755741792681	labs_cLion.exe	f5f97f1362b80771
+10	691	7348758059092617	CMakeFiles/labs_cLion.dir/main.cpp.obj	f0ead6ab102b85e4
+5	875	7348758303998483	Planets/CMakeFiles/Planets.dir/library.cpp.obj	47f37aacd29cdf1e
+876	1001	7348758305283933	Planets/libPlanets.a	77962ac665f8b757
+1001	1076	7348758306005411	labs_cLion.exe	f5f97f1362b80771

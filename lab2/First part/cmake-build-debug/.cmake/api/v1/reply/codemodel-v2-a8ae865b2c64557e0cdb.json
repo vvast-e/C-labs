@@ -1,0 +1,102 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Planets",
+					"jsonFile" : "directory-Planets-Debug-8b984210032a359421aa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Planets",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "labs_cLion",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Planets",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Planets::@92102594209b28652ee5",
+					"jsonFile" : "target-Planets-Debug-a8f7738fec6848b9577e.json",
+					"name" : "Planets",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "labs_cLion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-labs_cLion-Debug-2d5c4a40737303773099.json",
+					"name" : "labs_cLion",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/labs cLion/lab2/First part/cmake-build-debug",
+		"source" : "D:/labs cLion/lab2/First part"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,102 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "apartments",
+					"jsonFile" : "directory-apartments-Debug-606010fe9b2f8568883e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "apartments",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2_part",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "apartments",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2_part::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2_part-Debug-8fedf0e2ec69da5c8747.json",
+					"name" : "2_part",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "apartments::@6ce2e08835f28d34bbc6",
+					"jsonFile" : "target-apartments-Debug-dc431bba7e295f5079da.json",
+					"name" : "apartments",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/labs cLion/lab2/2 part/cmake-build-debug",
+		"source" : "D:/labs cLion/lab2/2 part"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

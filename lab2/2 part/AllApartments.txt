@@ -1,0 +1,10 @@
+9
+Nekrasovka 52 1 13600000
+Izmailovo 25 1 9506000
+Golyanovo 44 0 8840425
+Strogino 20 0 7500000
+Lefortovo 49 1 13281348
+Lublino 66 1 15146154
+Basmanny 31 1 15623528
+Arbat 106 1 97470353
+Butyrsky 43 21483425
